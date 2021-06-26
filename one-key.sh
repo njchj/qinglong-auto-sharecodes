@@ -17,7 +17,7 @@ fi
 chmod 755 $code_shell_path
 
 # 替换 code.sh 中的仓库名
-sed -i '' 's/chinnkarahoi/JDHelloWorld/g' $code_shell_path
+#sed -i '' 's/chinnkarahoi/JDHelloWorld/g' $code_shell_path
 
 # 将 code.sh 添加到定时任务
 
